@@ -1,0 +1,23 @@
+{
+  "name": "heroku",
+  "version": "1.0.0",
+  "description": "testing test josn hosting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch productdata.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpasup/heroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpasup/heroku/issues"
+  },
+  "homepage": "https://github.com/rpasup/heroku#readme",
+  "devDependencies": {
+    "json-server": "^0.16.1"
+  }
+}
